@@ -1,5 +1,7 @@
 # DIKWP CAREER RUDDER / ZHIDUO 17.0.0
 
+Created by Yucong Duan (段玉聪).
+
 A local-first career planning and employment decision client for China's 2027 graduating cohort.
 
 It integrates multi-world career-path evaluation, a main-path/heterogeneous-hedge portfolio, an application pipeline, evidence-based CV–JD matching, proof ledger, official/planning deadline separation, offer comparison, recruitment-risk scanning, and exportable action plans.
